@@ -5,9 +5,31 @@
 Welcome to your new app.
 
 <SurveyPrompt Title="How is Blazor working for you?" />
+<button class="btn btn-primary" @onclick="ShowDialog">Show My Dialog</button>
 
-<Modal Title="My first Modal dialog" Show="true">
- <p>
-   This is my first modal dialog
- </p>
-</Modal>
+@if (showComponent)
+{
+    <Modal Title="My first Modal dialog" Show="true" OnCancel="CloseDialog" OnConfirm="Confirm">
+    <p>
+    This is my first modal dialog
+    </p>
+    </Modal>
+}
+
+@code {
+    private bool showComponent = false;    
+    private void ShowDialog()
+    {
+        showComponent = true;
+    }
+    private void CloseDialog()
+    {
+        showComponent = false;
+    }
+
+    private void Confirm()
+    {
+        // TODO: confirm something and close dialog
+        showComponent = false;
+    }
+}

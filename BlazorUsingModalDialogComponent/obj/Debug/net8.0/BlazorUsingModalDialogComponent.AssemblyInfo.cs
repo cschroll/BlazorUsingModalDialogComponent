@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorUsingModalDialogComponent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15a3b177ea7465cdc0ab03e581373951ece274d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorUsingModalDialogComponent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorUsingModalDialogComponent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

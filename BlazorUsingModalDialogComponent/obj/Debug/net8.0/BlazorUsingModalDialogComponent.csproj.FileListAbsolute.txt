@@ -29,7 +29,6 @@ c:\Users\Chris\source\repos\BlazorUsingModalDialogComponent\BlazorUsingModalDial
 c:\Users\Chris\source\repos\BlazorUsingModalDialogComponent\BlazorUsingModalDialogComponent\obj\Debug\net8.0\BlazorUsingModalDialogComponent.pdb
 c:\Users\Chris\source\repos\BlazorUsingModalDialogComponent\BlazorUsingModalDialogComponent\obj\Debug\net8.0\BlazorUsingModalDialogComponent.genruntimeconfig.cache
 c:\Users\Chris\source\repos\BlazorUsingModalDialogComponent\BlazorUsingModalDialogComponent\obj\Debug\net8.0\ref\BlazorUsingModalDialogComponent.dll
-c:\Users\Chris\source\repos\BlazorUsingModalDialogComponent\BlazorUsingModalDialogComponent\bin\Debug\net8.0\BlazorModalDialog.staticwebassets.runtime.json
 c:\Users\Chris\source\repos\BlazorUsingModalDialogComponent\BlazorUsingModalDialogComponent\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
 c:\Users\Chris\source\repos\BlazorUsingModalDialogComponent\BlazorUsingModalDialogComponent\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
 c:\Users\Chris\source\repos\BlazorUsingModalDialogComponent\BlazorUsingModalDialogComponent\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
@@ -38,6 +37,6 @@ c:\Users\Chris\source\repos\BlazorUsingModalDialogComponent\BlazorUsingModalDial
 c:\Users\Chris\source\repos\BlazorUsingModalDialogComponent\BlazorUsingModalDialogComponent\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 c:\Users\Chris\source\repos\BlazorUsingModalDialogComponent\BlazorUsingModalDialogComponent\bin\Debug\net8.0\Microsoft.JSInterop.dll
 c:\Users\Chris\source\repos\BlazorUsingModalDialogComponent\BlazorUsingModalDialogComponent\bin\Debug\net8.0\BlazorModalDialog.dll
-c:\Users\Chris\source\repos\BlazorUsingModalDialogComponent\BlazorUsingModalDialogComponent\bin\Debug\net8.0\BlazorModalDialog.pdb
 c:\Users\Chris\source\repos\BlazorUsingModalDialogComponent\BlazorUsingModalDialogComponent\obj\Debug\net8.0\BlazorUsingModalDialogComponent.csproj.AssemblyReference.cache
 c:\Users\Chris\source\repos\BlazorUsingModalDialogComponent\BlazorUsingModalDialogComponent\obj\Debug\net8.0\BlazorUsingModalDialogComponent.csproj.CopyComplete
+c:\Users\Chris\source\repos\BlazorUsingModalDialogComponent\BlazorUsingModalDialogComponent\obj\Debug\net8.0\BlazorUsingModalDialogComponent.sourcelink.json

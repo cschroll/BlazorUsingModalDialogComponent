@@ -13,4 +13,7 @@
     <SourceRoot Include="C:\Users\Chris\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files\dotnet\sdk\NuGetFallbackFolder\" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)my.blazormodaldialog\0.1.0\buildTransitive\My.BlazorModalDialog.props" Condition="Exists('$(NuGetPackageRoot)my.blazormodaldialog\0.1.0\buildTransitive\My.BlazorModalDialog.props')" />
+  </ImportGroup>
 </Project>

@@ -4,14 +4,14 @@
     "c:\\Users\\Chris\\source\\repos\\BlazorUsingModalDialogComponent\\BlazorUsingModalDialogComponent\\BlazorUsingModalDialogComponent.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\BlazorModalDialog.csproj": {
+    "c:\\Users\\Chris\\source\\repos\\BlazorUsingModalDialogComponent\\BlazorUsingModalDialogComponent\\BlazorUsingModalDialogComponent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\BlazorModalDialog.csproj",
-        "projectName": "BlazorModalDialog",
-        "projectPath": "c:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\BlazorModalDialog.csproj",
+        "projectUniqueName": "c:\\Users\\Chris\\source\\repos\\BlazorUsingModalDialogComponent\\BlazorUsingModalDialogComponent\\BlazorUsingModalDialogComponent.csproj",
+        "projectName": "BlazorUsingModalDialogComponent",
+        "projectPath": "c:\\Users\\Chris\\source\\repos\\BlazorUsingModalDialogComponent\\BlazorUsingModalDialogComponent\\BlazorUsingModalDialogComponent.csproj",
         "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\obj\\",
+        "outputPath": "c:\\Users\\Chris\\source\\repos\\BlazorUsingModalDialogComponent\\BlazorUsingModalDialogComponent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,73 +43,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Components.Web": {
+            "My.BlazorModalDialog": {
               "target": "Package",
-              "version": "[8.0.1, )"
+              "version": "[0.1.0, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "c:\\Users\\Chris\\source\\repos\\BlazorUsingModalDialogComponent\\BlazorUsingModalDialogComponent\\BlazorUsingModalDialogComponent.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "c:\\Users\\Chris\\source\\repos\\BlazorUsingModalDialogComponent\\BlazorUsingModalDialogComponent\\BlazorUsingModalDialogComponent.csproj",
-        "projectName": "BlazorUsingModalDialogComponent",
-        "projectPath": "c:\\Users\\Chris\\source\\repos\\BlazorUsingModalDialogComponent\\BlazorUsingModalDialogComponent\\BlazorUsingModalDialogComponent.csproj",
-        "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Chris\\source\\repos\\BlazorUsingModalDialogComponent\\BlazorUsingModalDialogComponent\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "c:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\BlazorModalDialog.csproj": {
-                "projectPath": "c:\\Users\\Chris\\source\\repos\\BlazorModalDialog\\BlazorModalDialog\\BlazorModalDialog.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",

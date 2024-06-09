@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "T/GVNguiZVnFtDHiljj5lHNDVN0TbkN9NNRzlO6Ryl5vpw+vTkifL2yBYJPy5b3jDmKJ5mRgu0QsKbUvkiV3Xg==",
+  "dgSpecHash": "WR7TdzMRU8oPyeyj5T0K/vjVOT8P9JUQ2Q2oD1iRopmLDPStgMWb8NUJZ7Zgale+z703w0aoowtxMCmIz86p/A==",
   "success": true,
   "projectFilePath": "c:\\Users\\Chris\\source\\repos\\BlazorUsingModalDialogComponent\\BlazorUsingModalDialogComponent\\BlazorUsingModalDialogComponent.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\Chris\\.nuget\\packages\\microsoft.extensions.options\\8.0.1\\microsoft.extensions.options.8.0.1.nupkg.sha512",
     "C:\\Users\\Chris\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\Chris\\.nuget\\packages\\microsoft.jsinterop\\8.0.1\\microsoft.jsinterop.8.0.1.nupkg.sha512",
+    "C:\\Users\\Chris\\.nuget\\packages\\my.blazormodaldialog\\0.1.0\\my.blazormodaldialog.0.1.0.nupkg.sha512",
     "C:\\Users\\Chris\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
   ],
   "logs": []
